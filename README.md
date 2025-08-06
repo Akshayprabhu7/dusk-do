@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/31b8d0c2-4592-4c4f-bcf2-a98a2ebb03f3
+**URL**: https://preview--task-buddy-mate.lovable.app/login
 
 ## How can I edit this code?
 
